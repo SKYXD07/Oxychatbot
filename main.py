@@ -7,13 +7,13 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-STRING = os.environ.get("STRING", None) 
+API_ID = os.environ.get("22152362", None) 
+API_HASH = os.environ.get("2df0bf931cc4a8516b43e61263e701b7, None) 
+STRING = os.environ.get("BQFSBKoAxvXzkqjVPn7o5pURAMItZFEAKELkmQXp3alus0Ad0r5jexG4XnBetNW1VJ-WOVMPFurj7o4BPSwD9gKUjCMCaCr-Fg5Ps-OhHI_WoV9EVwy7mwKArzyKtidF5QNHHrhMHodb8p72ETpVitS8L62Z7RxHT8fNcmEEQWtnslY_GxZlVPsuvceGjqrtoWEJ-_VmB5t-FK6AhinLWstfO2LZwuwZeCY6-fcClEpfy-s4LlfMmXrluB4klhxrMuXas7JgRjzuQiW7ymDNlkqGwgkrQEPcKx79gn2PFsZBTSRAlJDrhwWdpycgNUa-YciywHOlckQb0mXbEgKhh9idabB9YQAAAAGmQyAGAQ, None) 
 MONGO_URL = os.environ.get("MONGO_URL", None)
 
 
-bot = Client(STRING, API_ID, API_HASH)
+bot = Client(STRING,API_ID, API_HASH)
 
 
 async def is_admins(chat_id: int):
