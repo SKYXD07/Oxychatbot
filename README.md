@@ -13,4 +13,4 @@ The easiest way to deploy this Bot
 
 ## Support 
 <p align="center"><a href="https://t.me/We_Friends"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/Devbotz"> <img src="https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/naksh_accounts"> <img src="https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
